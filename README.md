@@ -29,4 +29,19 @@ Creation des microservices :
 
 
 
+Démarrer consul :
+
+
+
+
+
+Configuration :
+Création de dossier externe config-repo et l’intégrer dans le service config
+
+
+
+Le service config est bien demmarer dans le port 8888 :
+
+
+
 

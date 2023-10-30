@@ -44,4 +44,7 @@ Le service config est bien demmarer dans le port 8888 :
 
 
 
+Wallet service :
+
+
 

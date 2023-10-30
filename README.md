@@ -48,3 +48,11 @@ Wallet service :
 
 
 
+
+
+Gateway Service :
+
+
+
+La gateway est bien demmarer dans le port 9999 
+
